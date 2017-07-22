@@ -10,5 +10,7 @@ Prikazi datum i vreme.</button>
 
 <p id="demo"></p>
 
+<div>Novi div</div>
+
 </body>
 </html> 
