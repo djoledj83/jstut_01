@@ -1,0 +1,4 @@
+[submodule "gpg-testing"]
+	path = gpg-testing
+	url = https://github.com/kojicz983/gpg-testing
+	branch = master
